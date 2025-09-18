@@ -1,0 +1,33 @@
+# Forage Job Simulations Portfolio
+
+This repository serves as a portfolio to document and showcase the job simulations I have completed on the Forage platform. Each simulation is designed to provide practical, on-the-job experience and help me develop key skills in a professional environment.
+
+---
+
+## Why This Portfolio?
+
+I created this repository to:
+
+**Document My Learning Journey**: Keep a detailed record of the skills and tasks I completed for each simulation.
+
+**Showcase My Abilities:** Provide a clear, organized portfolio for potential employers to view my practical experience.
+
+**Reflect and Improve:** Use the README.md files within each folder to summarize my key takeaways, challenges, and solutions for each project.
+
+**Completed Job Simulations**
+This section will be updated as I complete more simulations. Each link will take you to a dedicated folder containing the certificate and a detailed README.md for that specific project.
+
+---
+
+## List Of Accomplishment and Certificate
+
+### Datacom Software Development Job Simulation
+
+**Skills Learned:** Software Evaluation, Critical Thinking, Root Cause Analysis, Software Development.
+
+---
+
+### Fidelity Investments Customer Service
+
+**Skills Learned:** Active Listening, Communication, Customer Service, Research 
+
